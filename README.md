@@ -66,8 +66,8 @@ The system is trained and evaluated on two main datasets:
 
 1. Clone the repository:
    ```
-   git clone [repository-url]
-   cd [repository-name]
+   git clone https://github.com/QuantTitan/Speech_Understanding_Course_Project.git
+   cd Speech_Understanding_Course_Project
    ```
 
 2. Install dependencies:
