@@ -134,8 +134,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Authors
 
-- Shyam Sathvik (b22ee036@iitj.ac.in)
-- Neermita Bhattacharya (b22cs092@iitj.ac.in)
+- Aansh Dubey (b22ai058@iitj.ac.in)
 
 ## References
 
